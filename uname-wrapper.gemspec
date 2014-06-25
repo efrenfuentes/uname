@@ -6,6 +6,6 @@ Gem::Specification.new do |s|
  s.description = "Get `uname` information easily." 
  s.authors = ["Efren Fuentes"] 
  s.email = 'efrenfuentes@gmail.com' 
- s.files = ["lib/uname.rb"] 
+ s.files = ["lib/uname-wrapper.rb"] 
  s.homepage = 'https://github.com/efrenfuentes/uname' 
 end
