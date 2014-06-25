@@ -4,7 +4,7 @@
 # Copyright (c) 2014 Efren Fuentes.
 #
 
-module uname 
+module UNAME 
 
   def self.all
     self.runUname("-a")
