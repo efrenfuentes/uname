@@ -1,5 +1,5 @@
 Gem::Specification.new do |s| 
- s.name = 'uname' 
+ s.name = 'uname-wrapper' 
  s.version = '1.0.0' 
  s.date = '2014-06-24' 
  s.summary = "Ruby wrapper to `uname` command." 
